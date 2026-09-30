@@ -367,60 +367,61 @@ Contains user profile, security, appearance, notifications, and application info
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
 <div align="center">
 
 <table>
 <tr>
-
 <td align="center">
-<img src="screenshots/dashboard.png" width="220"/>
+<img src="screenshots/homepage.png" width="280"/>
+<br/>
+<b>Homepage</b>
 </td>
 
 <td align="center">
-<img src="screenshots/properties.png" width="220"/>
+<img src="screenshots/amlak.png" width="280"/>
+<br/>
+<b>Properties</b>
 </td>
 
 <td align="center">
-<img src="screenshots/clients.png" width="220"/>
+<img src="screenshots/customers.png" width="280"/>
+<br/>
+<b>Customers</b>
 </td>
-
 </tr>
 
 <tr>
-<td>🏠 Dashboard</td>
-<td>🏢 Properties</td>
-<td>👥 Clients</td>
-</tr>
-
-<tr>
-
 <td align="center">
-<img src="screenshots/matching.png" width="220"/>
+<img src="screenshots/AI-check.png" width="280"/>
+<br/>
+<b>Smart Matching</b>
 </td>
 
 <td align="center">
-<img src="screenshots/drafts.png" width="220"/>
+<img src="screenshots/tasks.png" width="280"/>
+<br/>
+<b>Tasks</b>
 </td>
 
 <td align="center">
-<img src="screenshots/settings.png" width="220"/>
+<img src="screenshots/menu.png" width="280"/>
+<br/>
+<b>Menu</b>
 </td>
-
-</tr>
-
-<tr>
-<td>🤖 Smart Matching</td>
-<td>📝 Drafts</td>
-<td>⚙️ Settings</td>
 </tr>
 
 </table>
 
+<br/>
+
+<img src="screenshots/setting.png" width="280"/>
+<br/>
+<b>Settings</b>
+
 </div>
 
-> 📌 Place your screenshots inside the `screenshots/` directory using the filenames above.
 
 ---
 
