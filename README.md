@@ -430,7 +430,7 @@ Contains user profile, security, appearance, notifications, and application info
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/MobinaFetrati/Melkino.git
+git clone https://github.com/CodeminTech/Melkino.git
 ```
 
 ### 2️⃣ Navigate to the project
@@ -558,33 +558,9 @@ The current implementation uses local in-memory sample data, making it suitable 
 
 ## 👩‍💻 Developer
 
-**Mobina Fetrati**
+**CodemonTech**
 
-💙 Flutter Developer | Mobile Application Developer
+Flutter Developer | Mobile Application Developer
 
-🐙 GitHub:
-https://github.com/MobinaFetrati
-
----
-
-## ⭐ Support
-
-If you find this project interesting, consider giving the repository a ⭐ on GitHub.
-
-```text
-🏠 Real Estate
-      +
-👥 CRM
-      +
-🤖 Smart Matching
-      +
-💙 Flutter
-      =
-✨ Melkino
-```
-
----
-
-## 📄 License
-
-This project is currently developed for **portfolio, educational, and demonstration purposes**.
+🔗 GitHub:
+GitHub: https://github.com/CodeminTech
